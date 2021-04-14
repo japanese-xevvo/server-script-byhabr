@@ -1,0 +1,11 @@
+{
+  "access": {
+	"admin_users": [ "smuss1" ],
+        "trusted_ips": [""]
+  },
+  "auth": {
+        "type": "htpasswd",
+        "username_pattern": "uid=$username,ou=people,dc=test,dc=ldap",
+        "htpasswd_path": "/home/serverusr/script-server/.htpasswd"
+ }
+}

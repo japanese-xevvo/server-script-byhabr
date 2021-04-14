@@ -1,0 +1,18 @@
+id:9
+user_name:192.168.31.102
+user_id:192.168.31.102
+script:Twitch-Farm0
+start_time:1618250832660
+command:python main.py B_U_L_O_C_H_K_A alina_dln buster tonyspacex fraNkey136 ZLOYn bratishkinOFF everon__ BLBCK7CSGO del1ght
+exit_code:1
+>>>>>  OUTPUT STARTED <<<<<
+Traceback (most recent call last):
+  File "main.py", line 56, in <module>
+    main()
+  File "main.py", line 15, in main
+    streamer_logins = read_streamer_logins()
+  File "main.py", line 42, in read_streamer_logins
+    get_channel_id(streamer_login)
+  File "/home/serverusr/Twitch-Channel-Points-Miner/twitch_data.py", line 80, in get_channel_id
+    data = r.json()["data"]
+KeyError: 'data'

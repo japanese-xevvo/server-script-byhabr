@@ -1,0 +1,31 @@
+id:12
+user_name:192.168.31.102
+user_id:192.168.31.102
+script:Twitch-Farm1
+start_time:1618251197437
+command:python3 main.py B_U_L_O_C_H_K_A alina_dln buster tonyspacex fraNkey136 ZLOYn bratishkinOFF everon__ BLBCK7CSGO del1ght
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+Streamer BLBCK7CSGO does not exist
+B_U_L_O_C_H_K_A is offline currently.
+alina_dln is live!
+buster is offline currently.
+tonyspacex is live!
+fraNkey136 is offline currently.
+ZLOYn is offline currently.
+bratishkinOFF is offline currently.
+everon__ is offline currently.
+del1ght is live!
+22990 channel points for B_U_L_O_C_H_K_A!
+17530 channel points for alina_dln!
+9970 channel points for buster!
+25640 channel points for tonyspacex!
+24140 channel points for fraNkey136!
+10000 channel points for ZLOYn!
+7390 channel points for bratishkinOFF!
+3260 channel points for everon__!
+940 channel points for del1ght!
+25650 channel points for tonyspacex! Reason: watch.
+17540 channel points for alina_dln! Reason: watch.
+
+>> STOPPED BY USER
